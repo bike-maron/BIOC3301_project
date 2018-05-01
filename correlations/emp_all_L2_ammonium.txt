@@ -1,0 +1,85 @@
+Feature ID	Test stat.	pval	pval_fdr	pval_bon
+D_0__Bacteria;D_1__Chloroflexi	0.257164606	0.000191739	0.016106106	0.016106106
+D_0__Bacteria;D_1__Nitrospirae	0.163495415	0.019338603	0.449578672	1
+D_0__Bacteria;D_1__Fibrobacteres	0.161949896	0.020534733	0.449578672	1
+D_0__Bacteria;D_1__Planctomycetes	0.16086931	0.021408508	0.449578672	1
+D_0__Bacteria;D_1__Omnitrophica	0.15311976	0.028665549	0.480702844	1
+D_0__Bacteria;D_1__Latescibacteria	0.143282036	0.040810669	0.480702844	1
+D_0__Bacteria;D_1__Lentisphaerae	0.137831584	0.049227345	0.480702844	1
+D_0__Bacteria;D_1__Proteobacteria	-0.137282165	0.05015054	0.480702844	1
+D_0__Archaea;D_1__Euryarchaeota	0.136491735	0.051503876	0.480702844	1
+D_0__Bacteria;D_1__Chlamydiae	0.125161448	0.074452304	0.625399351	1
+D_0__Bacteria;D_1__Chlorobi	0.115579318	0.09976886	0.738175871	1
+D_0__Bacteria;D_1__Candidate division OP3	0.113118511	0.107261478	0.738175871	1
+D_0__Bacteria;D_1__TM6	0.108939544	0.120988372	0.738175871	1
+D_0__Bacteria;D_1__Actinobacteria	0.107602521	0.125656253	0.738175871	1
+D_0__Bacteria;D_1__Parcubacteria	0.104730489	0.136151771	0.738175871	1
+D_0__Bacteria;D_1__Gemmatimonadetes	0.103562995	0.140604928	0.738175871	1
+D_0__Archaea;D_1__Aenigmarchaeota	0.098462976	0.161366256	0.797339146	1
+D_0__Bacteria;D_1__Hydrogenedentes	0.088375704	0.209036524	0.975503778	1
+D_0__Bacteria;D_1__Acidobacteria	0.081062974	0.249406008	1	1
+D_0__Bacteria;D_1__Firmicutes	0.074540573	0.289709616	1	1
+D_0__Bacteria;D_1__Candidate division SR1	-0.069808908	0.321527141	1	1
+D_0__Bacteria;D_1__WCHB1-60	0.06836633	0.331660658	1	1
+D_0__Bacteria;D_1__TA06	0.06732633	0.339091624	1	1
+D_0__Bacteria;D_1__Armatimonadetes	0.062462532	0.3752331	1	1
+D_0__Archaea;D_1__Thaumarchaeota	0.062425556	0.375516579	1	1
+D_0__Bacteria;D_1__Microgenomates	0.060712527	0.388792882	1	1
+D_0__Bacteria;D_1__Gracilibacteria	0.060523886	0.390271979	1	1
+D_0__Archaea;D_1__Parvarchaeota	0.056131427	0.425661477	1	1
+D_0__Bacteria;D_1__SM2F11	0.052608198	0.455341785	1	1
+D_0__Bacteria;D_1__Elusimicrobia	0.047983554	0.495993551	1	1
+D_0__Bacteria;D_1__Tenericutes	0.041546519	0.555617906	1	1
+D_0__Bacteria;D_1__Verrucomicrobia	0.037546489	0.594335635	1	1
+D_0__Bacteria;D_1__Thermotogae	-0.029608009	0.67456676	1	1
+D_0__Bacteria;D_1__Deinococcus-Thermus	0.028301791	0.688159274	1	1
+D_0__Bacteria;D_1__Cyanobacteria	-0.027974829	0.691577514	1	1
+D_0__Bacteria;D_1__Saccharibacteria	-0.022828282	0.746162907	1	1
+D_0__Archaea;D_1__Woesearchaeota (DHVEG-6)	0.018274203	0.795550065	1	1
+D_0__Bacteria;D_1__Bacteroidetes	0.016308649	0.81713185	1	1
+D_0__Bacteria;D_1__WD272	-0.011159902	0.874279126	1	1
+D_0__Bacteria;D_1__Spirochaetae	-0.01023709	0.884599651	1	1
+D_0__Bacteria;D_1__Aerophobetes	-0.007582688	0.914388182	1	1
+D_0__Bacteria;D_1__SHA-109	-0.006955142	0.921449715	1	1
+D_0__Bacteria;D_1__Fusobacteria	0.001344193	0.984795443	1	1
+D_0__Archaea;D_1__Aigarchaeota	nan	nan	1	nan
+D_0__Archaea;D_1__Ancient Archaeal Group(AAG)	nan	nan	1	nan
+D_0__Archaea;D_1__Crenarchaeota	nan	nan	1	nan
+D_0__Archaea;D_1__Diapherotrites	nan	nan	1	nan
+D_0__Archaea;D_1__Marine Hydrothermal Vent Group(MHVG)	nan	nan	1	nan
+D_0__Archaea;D_1__Miscellaneous Crenarchaeotic Group	nan	nan	1	nan
+D_0__Archaea;D_1__Miscellaneous Euryarchaeotic Group(MEG)	nan	nan	1	nan
+D_0__Archaea;D_1__Nanoarchaeota	nan	nan	1	nan
+D_0__Archaea;D_1__Nanohaloarchaeota	nan	nan	1	nan
+D_0__Archaea;D_1__SM1K20	nan	nan	1	nan
+D_0__Archaea;D_1__uncultured archaeon	nan	nan	1	nan
+D_0__Archaea;D_1__uncultured bacterium	nan	nan	1	nan
+D_0__Bacteria;D_1__Acetothermia	nan	nan	1	nan
+D_0__Bacteria;D_1__Aminicenantes	nan	nan	1	nan
+D_0__Bacteria;D_1__Aquificae	nan	nan	1	nan
+D_0__Bacteria;D_1__Atribacteria	nan	nan	1	nan
+D_0__Bacteria;D_1__CKC4	nan	nan	1	nan
+D_0__Bacteria;D_1__Caldiserica	nan	nan	1	nan
+D_0__Bacteria;D_1__Calescamantes	nan	nan	1	nan
+D_0__Bacteria;D_1__Candidate division WS6	nan	nan	1	nan
+D_0__Bacteria;D_1__Chrysiogenetes	nan	nan	1	nan
+D_0__Bacteria;D_1__Cloacimonetes	nan	nan	1	nan
+D_0__Bacteria;D_1__Deferribacteres	nan	nan	1	nan
+D_0__Bacteria;D_1__Dictyoglomi	nan	nan	1	nan
+D_0__Bacteria;D_1__GAL08	nan	nan	1	nan
+D_0__Bacteria;D_1__GOUTA4	nan	nan	1	nan
+D_0__Bacteria;D_1__Hyd24-12	nan	nan	1	nan
+D_0__Bacteria;D_1__JL-ETNP-Z39	nan	nan	1	nan
+D_0__Bacteria;D_1__Kazan-3B-09	nan	nan	1	nan
+D_0__Bacteria;D_1__LCP-89	nan	nan	1	nan
+D_0__Bacteria;D_1__LD1-PA38	nan	nan	1	nan
+D_0__Bacteria;D_1__Marinimicrobia (SAR406 clade)	nan	nan	1	nan
+D_0__Bacteria;D_1__OC31	nan	nan	1	nan
+D_0__Bacteria;D_1__PAUC34f	nan	nan	1	nan
+D_0__Bacteria;D_1__RsaHF231	nan	nan	1	nan
+D_0__Bacteria;D_1__S2R-29	nan	nan	1	nan
+D_0__Bacteria;D_1__SBYG-2791	nan	nan	1	nan
+D_0__Bacteria;D_1__Synergistetes	nan	nan	1	nan
+D_0__Bacteria;D_1__Thermodesulfobacteria	nan	nan	1	nan
+D_0__Bacteria;D_1__aquifer1	nan	nan	1	nan
+D_0__Bacteria;D_1__uncultured archaeon	nan	nan	1	nan

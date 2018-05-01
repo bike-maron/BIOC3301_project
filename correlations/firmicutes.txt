@@ -1,0 +1,77 @@
+Feature ID	Test stat.	pval	pval_fdr	pval_bon	taxonomy
+JX133341.1.1500	-0.348286172774	0.0589240122239	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Paenibacillaceae; D_5__Ammoniphilus; Ambiguous_taxa
+AM162294.1.1532	0.332257269744	0.0727236044557	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Paenibacillaceae; D_5__Paenibacillus; Ambiguous_taxa
+HQ323426.1.1541	0.272601178464	0.146163614319	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Bacillus; D_6__Bacillus simplex
+FNLH01000015.365395.366926	-0.241992135383	0.199536463174	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Bacillus; Ambiguous_taxa
+AB745450.1.1523	-0.241992135383	0.199536463174	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Paenibacillaceae; D_5__Ammoniibacillus; Ambiguous_taxa
+EU358714.1.1500	-0.241992135383	0.199536463174	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Clostridia; D_3__Clostridiales; D_4__Lachnospiraceae; D_5__uncultured; D_6__uncultured bacterium
+EF682931.1.1535	-0.241992135383	0.199536463174	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Oceanobacillus; Ambiguous_taxa
+FR687487.1.1515	-0.241992135383	0.199536463174	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Alicyclobacillaceae; D_5__Tumebacillus; D_6__uncultured bacterium
+HQ183790.1.1486	-0.241992135383	0.199536463174	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Clostridia; D_3__Clostridiales; D_4__Ruminococcaceae; D_5__Ruminococcaceae UCG-012; Ambiguous_taxa
+AB637244.1.1507	-0.241992135383	0.199536463174	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Planococcaceae; D_5__uncultured; D_6__uncultured bacterium
+AB821071.1.1511	-0.241992135383	0.199536463174	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Paenibacillaceae; D_5__Paenibacillus; Ambiguous_taxa
+CP015906.2140419.2141977	-0.241992135383	0.199536463174	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Lactobacillales; D_4__Streptococcaceae; D_5__Lactococcus; D_6__Lactococcus lactis subsp. lactis
+LIYL01000010.256727.258364	-0.241992135383	0.199536463174	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Planococcaceae; D_5__Lysinibacillus; D_6__Bacillus decisifrondis
+EF558960.1.1488	-0.241992135383	0.199536463174	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Clostridia; D_3__Clostridiales; D_4__Heliobacteriaceae; D_5__Hydrogenispora; Ambiguous_taxa
+JX274441.1.1462	-0.241992135383	0.199536463174	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Oceanobacillus; D_6__Oceanobacillus sp. GD-1
+JQ396606.1.1540	-0.241992135383	0.199536463174	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Paenibacillaceae; D_5__Paenibacillus; Ambiguous_taxa
+JMMB01000008.9370.10857	-0.241992135383	0.199536463174	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Clostridia; D_3__Clostridiales; D_4__Peptostreptococcaceae; D_5__Romboutsia; Ambiguous_taxa
+FSAB01000037.24.1556	0.237467845073	0.208416744488	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Bacillus; Ambiguous_taxa
+KR029173.1.1535	0.237467845073	0.208416744488	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Bacillus; D_6__Paenibacillus sp. mixed culture J1-18F
+FMGS01000005.587.2069	0.237467845073	0.208416744488	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Clostridia; D_3__Clostridiales; D_4__Peptostreptococcaceae; D_5__Paeniclostridium; D_6__uncultured Clostridium sp.
+FJ937920.1.1544	0.230992492866	0.221582603688	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Bacillus; Ambiguous_taxa
+HF546399.1.1518	0.230992492866	0.221582603688	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Clostridia; D_3__Clostridiales; D_4__Clostridiaceae 1; D_5__Oxobacter; Ambiguous_taxa
+AF227842.1.1421	0.230992492866	0.221582603688	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Planococcaceae; D_5__Lysinibacillus; D_6__Lysinibacillus sphaericus
+AF280819.1.1526	0.230992492866	0.221582603688	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Clostridia; D_3__Clostridiales; D_4__Family XI; D_5__Tepidimicrobium; D_6__uncultured bacterium tbr1-1
+FN667050.1.1484	0.230992492866	0.221582603688	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Thermoactinomycetaceae; D_5__uncultured; D_6__uncultured compost bacterium
+DQ350826.1.1546	0.230992492866	0.221582603688	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Bacillus; Ambiguous_taxa
+HG764474.1.1524	0.230992492866	0.221582603688	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Alicyclobacillaceae; D_5__Tumebacillus; D_6__uncultured bacterium
+FN667478.1.1473	0.230992492866	0.221582603688	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Limnochordia; D_3__Limnochordales; D_4__Limnochordaceae; D_5__uncultured compost bacterium; D_6__uncultured compost bacterium
+CP014176.1964045.1965567	0.230992492866	0.221582603688	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Clostridia; D_3__Clostridiales; D_4__Clostridiaceae 1; D_5__Clostridium sensu stricto 13; Ambiguous_taxa
+HQ155667.1.1381	0.230992492866	0.221582603688	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Clostridia; D_3__Clostridiales; D_4__Ruminococcaceae; D_5__Ruminococcus 1; D_6__uncultured prokaryote
+JN387556.1.1324	0.230992492866	0.221582603688	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Clostridia; D_3__Clostridiales; D_4__Peptostreptococcaceae; D_5__Romboutsia; D_6__uncultured microorganism
+CP017560.1506905.1508464	0.230992492866	0.221582603688	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Planococcaceae; D_5__Sporosarcina; Ambiguous_taxa
+EU468049.1.1212	0.230992492866	0.221582603688	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Bacillus; D_6__uncultured bacterium
+KF011594.1.1485	0.230992492866	0.221582603688	0.495302290598	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Paenibacillaceae; D_5__Paenibacillus; Ambiguous_taxa
+JQ775311.1.1558	-0.2180767953	0.249463139496	0.54169138862	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Paenibacillaceae; D_5__Thermobacillus; Ambiguous_taxa
+HK695073.1.1515	0.197889870894	0.297405724392	0.603549287045	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Ureibacillus; Ambiguous_taxa
+CP000764.9424.10967	0.197889870894	0.297405724392	0.603549287045	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Bacillus; Ambiguous_taxa
+KJ600949.1.1573	0.196155200935	0.301774643522	0.603549287045	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Bacillus; D_6__uncultured bacterium
+FN667349.1.1473	-0.174143086387	0.360616407884	0.702739666647	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__uncultured; Ambiguous_taxa
+HQ323430.1.1541	-0.142480707044	0.45601586861	0.837091111055	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Bacillus; D_6__Bacillus megaterium
+KF625180.1.1799	-0.132347346788	0.489091256173	0.837091111055	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Bacillus; D_6__Bacillus atrophaeus
+HK556684.1.1511	-0.109996425174	0.566048868342	0.837091111055	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Paenibacillaceae; D_5__Paenibacillus; Ambiguous_taxa
+DQ129292.1.1507	-0.109996425174	0.566048868342	0.837091111055	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Bacillus; Ambiguous_taxa
+JPZM01000030.32443.33996	-0.109996425174	0.566048868342	0.837091111055	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Thermoactinomycetaceae; D_5__Thermoactinomyces; Ambiguous_taxa
+DQ346500.1.1495	-0.109996425174	0.566048868342	0.837091111055	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Limnochordia; D_3__Limnochordales; D_4__Limnochordaceae; D_5__uncultured compost bacterium; D_6__uncultured compost bacterium
+CP015027.1029839.1031395	-0.108948622771	0.569784011458	0.837091111055	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Planococcaceae; D_5__Sporosarcina; Ambiguous_taxa
+DQ119659.1.1525	0.102902732865	0.591545554838	0.837091111055	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Thermoactinomycetaceae; D_5__Planifilum; Ambiguous_taxa
+HQ397223.1.1494	-0.102902732865	0.591545554838	0.837091111055	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Clostridia; D_3__Clostridiales; D_4__Lachnospiraceae; D_5__uncultured Firmicutes bacterium; D_6__uncultured Firmicutes bacterium
+AY337519.1.1512	0.0989967826568	0.605789619843	0.837091111055	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Clostridia; D_3__Clostridiales; D_4__Clostridiaceae 1; D_5__Clostridium sensu stricto 1; Ambiguous_taxa
+AF537343.1.1543	0.0989967826568	0.605789619843	0.837091111055	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Paenibacillaceae; D_5__Paenibacillus; Ambiguous_taxa
+FPLS01023060.41.1568	0.0989967826568	0.605789619843	0.837091111055	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Paenibacillaceae; D_5__uncultured; D_6__metagenome
+AM930295.1.1512	0.0989967826568	0.605789619843	0.837091111055	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Thermoactinomycetaceae; D_5__Planifilum; Ambiguous_taxa
+FBXX01000013.1505340.1506877	0.0989967826568	0.605789619843	0.837091111055	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Bacillus; D_6__Bacillus phocaeensis
+HM341056.1.1344	0.0989967826568	0.605789619843	0.837091111055	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Clostridia; D_3__Clostridiales; D_4__Heliobacteriaceae; D_5__Hydrogenispora; D_6__uncultured bacterium
+KJ923799.2.1701	0.0989967826568	0.605789619843	0.837091111055	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Paenibacillaceae; D_5__Paenibacillus; D_6__Paenibacillus polymyxa
+AB066341.1.1546	0.095194344744	0.619790946952	0.841144856577	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Bacillus; Ambiguous_taxa
+AB746849.1.1545	-0.0549982125871	0.774826222771	0.915405387708	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Paenibacillaceae; D_5__Paenibacillus; Ambiguous_taxa
+JQMI01000018.347284.348818	-0.0549982125871	0.774826222771	0.915405387708	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Planococcaceae; D_5__Domibacillus; Ambiguous_taxa
+EU369159.1.1525	-0.0549982125871	0.774826222771	0.915405387708	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Bacillus; D_6__uncultured bacterium
+KC854870.1.1478	0.0474935690146	0.804931730241	0.915405387708	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Paenibacillaceae; D_5__Paenibacillus; D_6__Paenibacillus sepulcri
+FR687440.1.1512	-0.0474935690146	0.804931730241	0.915405387708	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Alicyclobacillaceae; D_5__Tumebacillus; Ambiguous_taxa
+LZOD01000018.12666.14597	0.0448326129013	0.81567338319	0.915405387708	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Bacillus; D_6__Bacillus cereus
+LUFJ01000001.95.1657	0.0439985700697	0.819046925844	0.915405387708	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Planococcaceae; D_5__Lysinibacillus; Ambiguous_taxa
+JX861507.1.1524	0.0439985700697	0.819046925844	0.915405387708	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Clostridia; D_3__Clostridiales; D_4__Peptococcaceae; D_5__Desulfotomaculum; D_6__Desulfotomaculum peckii
+FPLS01043838.10.1533	0.0439985700697	0.819046925844	0.915405387708	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Paenibacillaceae; D_5__Paenibacillus; D_6__metagenome
+HQ453970.1.1570	0.0439985700697	0.819046925844	0.915405387708	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Virgibacillus; Ambiguous_taxa
+EF517948.1.1687	0.0439985700697	0.819046925844	0.915405387708	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Bacillus; D_6__Bacillus sp. IGCAR-1/07
+FPLS01003855.13.1497	0.0439985700697	0.819046925844	0.915405387708	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Thermoactinomycetaceae; D_5__Shimazuella; Ambiguous_taxa
+EF632748.1.1502	-0.00791559483577	0.967191065385	1.0	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Clostridia; D_3__Clostridiales; D_4__Clostridiaceae 1; D_5__Clostridium sensu stricto 8; D_6__uncultured bacterium
+KC989946.1.1744	-0.00791559483577	0.967191065385	1.0	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Thermoactinomycetaceae; D_5__Laceyella; D_6__Laceyella sacchari
+BAMO01000087.131.1675	-0.00791559483577	0.967191065385	1.0	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Bacillus; Ambiguous_taxa
+JF825494.1.1570	0.00496054150022	0.979436051646	1.0	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Bacillaceae; D_5__Geobacillus; Ambiguous_taxa
+JX133348.1.1518	0.00342805119577	0.985788236295	1.0	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Bacilli; D_3__Bacillales; D_4__Planococcaceae; D_5__Sporosarcina; Ambiguous_taxa
+AF018036.1.1512	0.0	1.0	1.0	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Clostridia; D_3__Clostridiales; D_4__Clostridiaceae 1; D_5__Clostridium sensu stricto 1; D_6__uncultured bacterium OI1612
+GU455260.1.1605	0.0	1.0	1.0	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Clostridia; D_3__Clostridiales; D_4__Caldicoprobacteraceae; D_5__Caldicoprobacter; D_6__uncultured bacterium
+FJTZ01000012.200280.201763	0.0	1.0	1.0	1.0	D_0__Bacteria; D_1__Firmicutes; D_2__Clostridia; D_3__Clostridiales; D_4__Peptostreptococcaceae; D_5__Romboutsia; D_6__Romboutsia sp. MT17

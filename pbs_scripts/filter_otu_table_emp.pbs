@@ -1,0 +1,18 @@
+#!/bin/bash --login
+#PBS -l walltime=01:00:00
+#PBS -l select=1:ncpus=2
+#PBS -N filter_emp_table
+#PBS -A d411-training
+
+cd $PBS_O_WORKDIR
+module load miniconda/python2
+export TMPDIR=~/qiime_tmp
+source activate qiime1
+
+time filter_samples_from_otu_table.py \
+-i ~/emp_data/emp_cr_silva_16S_123.qc_filtered.biom \
+-o ~/emp_data/emp_soil_filtered.biom \
+--sample_id_fp ~/emp_data/emp_soil_data.tsv 
+
+source deactivate
+

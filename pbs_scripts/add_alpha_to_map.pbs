@@ -1,0 +1,19 @@
+#!/bin/bash --login
+#PBS -l walltime=01:00:00
+#PBS -l select=1:ncpus=2
+#PBS -N add_a-div_to_map_file
+#PBS -A d411-training
+
+cd $PBS_O_WORKDIR
+module load miniconda/python2
+export TMPDIR=~/qiime_tmp
+source activate qiime1
+
+time add_alpha_to_mapping_file.py \
+-i ~/core_div/adiv_chao1.txt \
+-m ~/2018/map.tsv \
+-o ~/2018/map_with_alpha.txt \
+ 
+
+source deactivate
+

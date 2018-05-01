@@ -1,0 +1,20 @@
+#!/bin/bash --login
+#PBS -l walltime=02:00:00
+#PBS -l select=1:ncpus=2
+#PBS -N core_div_analysis
+#PBS -A d411-training
+
+cd $PBS_O_WORKDIR
+module load miniconda/python2
+export TMPDIR=~/qiime_tmp
+source activate qiime1
+
+time core_diversity_analyses.py \
+-i ~/2018/clos_ref_otus/make_otu_table/otu_table_tax.biom \
+-o ~/2018/core_div_output \
+-e 50000 \
+-m ~/2018/map.tsv \
+-t ~/2018/clos_ref_otus/97_otus.tree
+
+source deactivate
+
