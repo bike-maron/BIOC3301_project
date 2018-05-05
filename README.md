@@ -1,4 +1,4 @@
-# BIOC3301_project
+# BIOC3301 project
 This repository contains scripts (PBS and Python) and part of the data analysis for the UCL BIOC3301 project.
 
 ## pbs_scripts
