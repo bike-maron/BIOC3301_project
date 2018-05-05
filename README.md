@@ -7,7 +7,7 @@ filtering, and demultiplexing) as well as scripts used for further analysis (e.g
 taxonomy level). This foler does not contain scripts used on a local machine, however, the full list of available scripts can be found at [http://qiime.org/scripts/index.html](http://qiime.org/scripts/index.html) 
 
 #Metadata 
-This foler stores tsv files that contain external data both for our project and the Earth Microbiome Project ([EMP]) (http://www.earthmicrobiome.org/data-and-code/). 
+This foler stores tsv files that contain external data both for our project and the Earth Microbiome Project [(EMP)] (http://www.earthmicrobiome.org/data-and-code/). 
 Note that the EMP dataset was filtered to contain only soil samples (i.e. the marine sediments, etc. were excluded).
 
 #Jupyter scripts 
@@ -15,7 +15,7 @@ ipynb scripts for statistical analysis and manipulation of our and EMP data
 
 # beta_div
 This folder contains data required to construct the phylogenetic tree (representative sequences were picked and aligned) and
-the tree file itself. The [phylo.io](http://phylo.io/) resouce is convenient for tree visualisation. 
+the tree file itself. The [Phylo.io](http://phylo.io/) resouce is convenient for tree visualisation. 
 
 # Correlations 
 Contains txt files which are output of various correlation analyses applied to our project and EMP data.
