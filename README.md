@@ -17,6 +17,6 @@ the tree file itself. The [Phylo.io](http://phylo.io/) resouce is convenient for
 
 ## Other folders 
 **correlations** contains txt files which are output of various correlation analyses applied to our project and EMP data.
-**figures** stores images, some of which were used in the report. 
+**figures** stores images, some of which were used in the report.
 **taxa_summary** stores OTU tables for specific taxonomy levels (L1-L6) rarefied at a depth of 600 reads. 
  
