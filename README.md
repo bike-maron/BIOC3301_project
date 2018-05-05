@@ -2,15 +2,14 @@
 This repository contains scripts (PBS and Python) and part of the data analysis for the UCL BIOC3301 project.
 
 ## pbs_scripts
-Scripts that were submitted to the Cirrus HPC via the portable batch system. Contain the basic QIIME pipeline (OTU assigning, 
+Scripts that were submitted to the Cirrus HPC via the portable batch system. Contains the basic QIIME pipeline (OTU assigning, 
 filtering, and demultiplexing) as well as scripts used for further analysis (e.g. beta-diversity or construction of OTU table for specific taxonomy level). This foler does not contain scripts used on a local machine, however, the full list of available scripts can be found at [http://qiime.org/scripts/index.html](http://qiime.org/scripts/index.html). 
 
 ## metadata 
-This foler stores tsv files that contain external data both for our project and the [Earth Microbiome Project](http://www.earthmicrobiome.org/data-and-code/) (EMP). 
-Note that the EMP dataset was filtered to contain only soil samples (i.e. the marine sediments, etc. were excluded).
+This foler stores tsv files that contain external data both for our project and the [Earth Microbiome Project](http://www.earthmicrobiome.org/data-and-code/) (EMP). They include physicochemical properties of the soil, location, temperature, etc. Note that the EMP dataset was filtered to contain only soil samples (i.e. the marine sediments, etc. were excluded).
 
 ## jupyter_scripts 
-Ipynb scripts for statistical analysis and manipulation of our and EMP data.
+ipynb scripts for  analysis and manipulation of our and EMP data.
 
 ## beta_div
 This folder contains data required to construct the phylogenetic tree (representative sequences were picked and aligned) and
