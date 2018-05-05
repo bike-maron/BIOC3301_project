@@ -7,7 +7,7 @@ filtering, and demultiplexing) as well as scripts used for further analysis (e.g
 taxonomy level). This foler does not contain scripts used on a local machine, however, the full list of available scripts can be found at [http://qiime.org/scripts/index.html](http://qiime.org/scripts/index.html) 
 
 ## Metadata 
-This foler stores tsv files that contain external data both for our project and the [Earth Microbiome Project] (http://www.earthmicrobiome.org/data-and-code/) (EMP). 
+This foler stores tsv files that contain external data both for our project and the [Earth Microbiome Project](http://www.earthmicrobiome.org/data-and-code/) (EMP). 
 Note that the EMP dataset was filtered to contain only soil samples (i.e. the marine sediments, etc. were excluded).
 
 ## Jupyter scripts 
